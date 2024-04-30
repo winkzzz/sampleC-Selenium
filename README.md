@@ -11,3 +11,4 @@ SeleniumTest.cs notes
 - used to asses my coding skill given a small amount of time (30mins)
 - within the 30mins, in includes the setup of selenium on my machine
 - this can be run right away given that selenium is set already on your machine
+- this is written without framework, plain C# selenium only and still can be improved
